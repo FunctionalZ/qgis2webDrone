@@ -9,7 +9,7 @@
 
 
 [general]
-name=qgis2web
+name=qgis2webDroneAI
 qgisMinimumVersion=2.99
 qgisMaximumVersion=3.99
 description=Export to an OpenLayers/Leaflet webmap

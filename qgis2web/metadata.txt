@@ -23,11 +23,12 @@ about=
  Happy mapping!
 
  Forked by Sean Twomey for the usage in the Drone AI project on 10/20/2024
+ based on version 3.22.0 of the original plugin version listed below is the version of the fork
  
 author=Andrea Ordonselli, Tom Chadwin, Riccardo Klinger, Victor Olaya, Nyall Dawson
 email=info@opengis.it
 
-version=3.22.0(BASE) 1.0.1(FORK)
+version=4.0.0
 
 # end of mandatory metadata
 
